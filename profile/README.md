@@ -6,4 +6,4 @@ development process including design, development, and marketing disciplines.
 In addition to being a highly productive environment, AppalHack is loads of fun!
 
 This GitHub organization holds the sources for the
-[AppalHack](https://apphack.dev) websites past and present.
+[AppalHack]([https://apphack.dev](https://appstate-apphack.github.io/appalhack/)https://appstate-apphack.github.io/appalhack/) websites past and present.
